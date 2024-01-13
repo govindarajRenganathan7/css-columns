@@ -24,3 +24,15 @@ body{
     color:#fff;
     padding: 1rem;
 }
+
+.columns .quote {
+    text-align: center;
+    font-size: 2rem;
+    column-span: all;
+    color: #333;
+    margin-top: 2rem;
+}
+
+.nowrap{
+    white-space: nowrap;
+}
